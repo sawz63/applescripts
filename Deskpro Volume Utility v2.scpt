@@ -1,5 +1,4 @@
 #@osa-lang:AppleScript
-#@osa-lang:AppleScript
 
 use AppleScript version "2.4" -- Yosemite (10.10) or later -- tested on OS X 12.3 Montery 1 April 2022
 use scripting additions
